@@ -1,0 +1,84 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ <style>
+    h1{
+        color:rgb(0, 13, 255);
+        text-decoration:wavy;
+    }
+    h3{
+        color:rgb(255, 170, 0);
+        text-decoration:wavy;
+    }
+ </style>
+</head>
+<body>
+    <header class="name">
+        <h1> <center>Udit Chaudhary</center></h1>
+        <hr>
+        <p> GitHub: <a href="example.com">uditchaudhary757 </a> </p>
+        <p> linkdin: <a href="example.com"> uditchaudhary757</a></p>
+        <p> Email: <a href="mailto:uditchaudhary757@gmail.com"> uditchaudhary757@gmail.com</a></p>
+            <h3><b> <u>Summary</u></b></h3>
+            <p> Motivated first- semester BCA (Artificial Intelligrnce) student with a strong intrest in java programming and machine learning basics.
+                <hr> 
+                <h3> <u> Education</u></h3>
+                <table border="5"> 
+        
+            <tr>
+                <th>Class</th>
+                <th>Percentage</th>
+                <th>Year</th>
+
+            </tr>
+            <tr>
+            <td>10th</td>
+            <td>67%</td>
+            <td>2023</td>
+            </tr>
+
+            <tr>
+                <td>12th</td>
+                <td>64%</td>
+                <td>2025</td>
+
+            </tr>
+            <tr>
+                <td>BCA (AI)</td>
+                <td> not declared yet</td>
+                <td>2026-29</td>
+
+            </tr>
+            </table>
+            <hr>
+            <h3> <u> Skills </u> </h3>
+
+        <ul>
+            <li> Basic to intermediate Pyothon Programming</li>
+            <li> basic Java programming</li>
+            <li>Basic HTML Programming</li>
+        </ul>
+        <hr>
+       <h3> <u> Project</u></h3>
+       <ol type "1">
+       <li> Made a<strong> to-do list using python language </strong></li>
+       <li>Made an <strong> online restaurant Manu-order-Booking program using Pyothan Language </strong> </li>
+       </ol>
+                <hr>
+                <h3> <u> Achivements</u> </h3>
+                <ul type="square">
+                <li> participated in hackathon 2026</li>
+                <li> participated in sport</li>
+                <li> made an astrology program using HTML</li>
+                </ul>
+                
+                
+        
+
+        
+    </header>
+</body>
+</html>
